@@ -1,2 +1,3 @@
-# mukeshchand_thakur
-Stuff I started in Caltech bootcamp, 2018 
+# jb_bootcamp
+
+Utilities for use in the Introduction to Programming in the Biological Sciences Bootcamp.
